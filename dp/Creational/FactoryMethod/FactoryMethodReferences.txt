@@ -1,0 +1,2 @@
+﻿https://sourcemaking.com/design_patterns/factory_method
+https://www.youtube.com/watch?v=EcFVTgRHJLM&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&index=4
