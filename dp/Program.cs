@@ -1,4 +1,5 @@
 ﻿using System;
+using dp.Structural.Decorator;
 
 namespace dp
 {
@@ -6,7 +7,7 @@ namespace dp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            new TestDecorator();
         }
     }
 }

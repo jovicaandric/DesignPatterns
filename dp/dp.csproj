@@ -8,5 +8,11 @@
   <ItemGroup>
     <Folder Include="Creational\" />
     <Folder Include="Creational\FactoryMethod\" />
+    <Folder Include="Behavioral\Observer\" />
+    <Folder Include="Structural\" />
+    <Folder Include="Structural\Decorator\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Structural\Decorator\Beverage.cs" />
   </ItemGroup>
 </Project>
