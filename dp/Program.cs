@@ -1,4 +1,5 @@
 ﻿using System;
+using dp.Creational.Singleton;
 using dp.Structural.Decorator;
 
 namespace dp
